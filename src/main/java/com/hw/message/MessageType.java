@@ -1,4 +1,4 @@
-package com.hw.dto.message;
+package com.hw.message;
 
 public class MessageType {
     public static final String MSG_TYPE_SUCCESS="SUCCESS";

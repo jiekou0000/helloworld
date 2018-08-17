@@ -1,4 +1,4 @@
-package com.hw.dto.message;
+package com.hw.message;
 
 public class Message {
     private String status;

@@ -1,7 +1,7 @@
 package com.hw.controller;
 
-import com.hw.dto.message.Message;
-import com.hw.dto.message.MessageType;
+import com.hw.message.Message;
+import com.hw.message.MessageType;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.RequestMapping;
