@@ -28,7 +28,7 @@
 		<connection>scm:git:git@github.com:jiekou0000/helloworld.git</connection>
 		<developerConnection>scm:git:git@github.com:jiekou0000/helloworld.git</developerConnection>
 		<url>https://github.com/jiekou0000/helloworld/tree/master</url>
-		<tag>v1.0.0-SNAPSHOT</tag>
+		<tag>v1.0.0</tag>
 	</scm>
 
 	<dependencies>
