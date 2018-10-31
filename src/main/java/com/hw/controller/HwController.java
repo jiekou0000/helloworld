@@ -15,7 +15,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class HwController {
     @RequestMapping(value = "/hw", method = RequestMethod.GET)
     public ResponseEntity<Message> getHw() {
-        String res = "Hello World";
-        return new ResponseEntity<Message>(new Message(MessageType.MSG_TYPE_SUCCESS, (Object) res), HttpStatus.OK);
+        String str1 = "Hello World !";
+        return new ResponseEntity<Message>(new Message(MessageType.MSG_TYPE_SUCCESS, (Object) str1), HttpStatus.OK);
     }
 }
